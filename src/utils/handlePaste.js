@@ -1,5 +1,5 @@
 import { getSelectedBlock } from 'draftjs-utils';
-import { Modifier, EditorState, ContentState } from 'draft-js';
+import { Modifier, EditorState } from 'draft-js';
 import htmlToDraft from 'html-to-draftjs';
 import { OrderedMap } from 'immutable';
 
